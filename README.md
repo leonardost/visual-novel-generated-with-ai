@@ -5,3 +5,7 @@ This is a simple visual novel style game fully generated with AI. I wanted to se
 For this experiment, I used the Cursor IDE with the Claude 3.5 Sonnet model. To generate iamge assets, I used free credits on openart.ai (formerly Dall-E I believe).
 
 From the initial prompt to the final touches, I spent around 2 hours. The only code I wrote myself were the final scenes where the "developer" appears in the game - all the rest was generated and updated by Claude.
+
+You can find more details about this experiment in my personal blog here: https://leotaba.blog/posts/2025-03-16-creating-a-visual-novel-with-ai/.
+
+You can play the game here: https://leotaba.blog/etc/vn/.
